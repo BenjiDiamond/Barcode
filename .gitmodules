@@ -1,0 +1,15 @@
+[submodule "ml-api"]
+	path = ml-api
+	url = git@github.com:RossAlRed/ors-ml-api.git
+[submodule "web-ui"]
+	path = web-ui
+	url = git@github.com:RossAlRed/ors-web-ui.git
+[submodule "ios-app"]
+	path = ios-app
+	url = git@github.com:RossAlRed/ors-ios-app.git
+[submodule "android-app"]
+	path = android-app
+	url = git@github.com:RossAlRed/ors-android-app.git
+[submodule "auth-api"]
+	path = auth-api
+	url = git@github.com:RossAlRed/ors-auth-api.git
